@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: "Data Science: Renovating NYC"
+description: "David Xue"
+
+theme: jekyll-theme-slate

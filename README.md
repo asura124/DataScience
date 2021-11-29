@@ -30,3 +30,22 @@
 9        |staten island |  open |       344 |
 
 ![graph](Housing.png)
+
+|        | MajorCategory   |   num  |
+|--------|------------------|------------|
+0        |      APPLIANCE  | 116360 |
+1        |   CONSTRUCTION  |    11 |
+2        |    DOOR/WINDOW  | 313380 |
+3        |       ELECTRIC  |  208528 |
+4        |       ELEVATOR  |  10005  |
+5        |FLOORING/STAIRS  | 203034  |
+6        |        GENERAL  | 202734  |
+7        | HEAT/HOT WATER  | 1460305 |
+8        |        HEATING  |   3600  |
+9        |       NONCONST  |    419  |
+10       |OUTSIDE BUILDING |   12952 |
+11       |  PAINT/PLASTER  | 479786  |
+12       |       PLUMBING  | 420629  |
+13       |         SAFETY |  114825  |
+14       |UNSANITARY CONDITION |  658234 |
+15       |     WATER LEAK |  261476     |

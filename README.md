@@ -16,7 +16,7 @@ TEST TEST TEST
 8        |staten island|  Closed |          42 |
 9        |staten island|    Open |          5  |
 
-![graph](landmark.png){: style="float: right;"}
+![graph](landmark.png)
 
 |        | Borough | Status | num_status |
 |--------|---------|--------|------------|

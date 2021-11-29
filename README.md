@@ -50,3 +50,5 @@
 14       |UNSANITARY CONDITION |  658234 |
 15       |     WATER LEAK |  261476     |
 
+![graph](Complaint.png)
+

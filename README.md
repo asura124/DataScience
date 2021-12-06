@@ -60,3 +60,7 @@
 # Techniques 
 
 # Citations 
+Links to Data Sources:
+- https://data.cityofnewyork.us/Housing-Development/Landmarks-Complaints/ck4n-5h6x
+- https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Complaints/uwyv-629c
+- https://data.cityofnewyork.us/Housing-Development/Complaint-Problems/a2nx-4u46

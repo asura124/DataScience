@@ -1,5 +1,5 @@
 # Overview
-
+  For this project, I wanted to look at how public infrastructures and buildings were being maintained and how fast problems were resolved when issues occurred. As New Yorkers, we live within these apartments/housings and use public infrastructures, whether they may be public transportations or public spaces. Whenever there’s a problem within one’s house or within a public infrastructure, it should be reported and fixed as soon as possible so that people’s lives aren’t affected due to these issues. By finding areas within NYC that are hit the most, we can get more people to go to these areas and help renovate. In order to explore, I looked at building and housing complaints and complaints on NYC landmarks to see where these complaints and issues lie as well to see what the most common issues were. Using libraries such as pandas, pandasql, numpy and matplotlib, I was able to explore the data and display my results. 
 
 
 

@@ -63,7 +63,7 @@
 ![graph](Complaint.png)
 
 # Techniques 
-  Using pandas, I read each csv file taken from the NYC public data. The Complaint Problems file had some lines that were not able to be read so they were dropped when read. After creating our dataframe from the read file, I used pandasql to write queries to aggregate the data: GROUPING columns and COUNTING rows. With the help of geeksforgeeks, I plotted the aggregated information using matplotlib.pylot. 
+  Using pandas, I read each csv file taken from the NYC public data. The Complaint Problems file had some lines that were not able to be read so they were dropped when read. After creating our dataframe from the read file, I used pandasql to write queries to aggregate the data: GROUPING columns and COUNTING rows. With the help of geeksforgeeks, I plotted the aggregated information using matplotlib. 
 
 # Citations 
 Links to Data Sources:

@@ -4,6 +4,7 @@
 
 
 # Data 
+  Below shows the number of complaints on landmarks within NYC orgnaized by Borough and the status of the complaint: Closed as the issue is resolved or Open as the issue is still not resolved. The table displays the distribution and the graph is the visualization of my table's result. 
 
 
 |        | Borough | Status | num_status |

@@ -39,6 +39,8 @@
 
 ![graph](Housing.png)
 
+  Below shows the different issues that occur within an apartment/housing complex. The table displays the number of occurrences that each issue has occurred and graphed the table's results.
+
 |        | MajorCategory   |   num  |
 |--------|------------------|------------|
 0        |      APPLIANCE  | 116360 |

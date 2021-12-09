@@ -1,10 +1,11 @@
 # Overview
+![building](renovate.jpeg)
   For this project, I wanted to look at how public infrastructures and buildings were being maintained and how fast problems were resolved when issues occurred. As New Yorkers, we live within these apartments/housings and use public infrastructures, whether they may be public transportations or public spaces. Whenever there’s a problem within one’s house or within a public infrastructure, it should be reported and fixed as soon as possible so that people’s lives aren’t affected due to these issues. By finding areas within NYC that are hit the most, we can get more people to go to these areas and help renovate. In order to explore, I looked at building and housing complaints and complaints on NYC landmarks to see where these complaints and issues lie as well to see what the most common issues were. Using libraries such as pandas, pandasql, numpy and matplotlib, I was able to explore the data and display my results. 
 
 
 
 # Data 
-  Below shows the number of complaints on landmarks within NYC orgnaized by Borough and the status of the complaint: Closed as the issue is resolved or Open as the issue is still not resolved. The table displays the distribution and the graph is the visualization of my table's result. 
+  Below shows the number of complaints on landmarks within NYC orgnaized by Borough and the status of the complaint: Closed as the issue is resolved or Open as the issue is still not resolved. The table displays the distribution and the graph is the visualization of my table's result. From the table and graph, we can see that Manhattan has the most issues when it comes to landmarks while Staten Island has the least. We can also see that there are still a handful of open issues within each Borough and no borough has 0 open issues. 
 
 
 |        | Borough | Status | num_status |
@@ -22,7 +23,7 @@
 
 ![graph](landmark.png)
 
-  Below shows the number of complaints on housing maintanence code within NYC orgnaized by Borough and the status of the complaint: Closed as the issue is resolved or Open as the issue is still not resolved. The table displays the distribution and the graph is the visualization of my table's result. 
+  Below shows the number of complaints on housing maintanence code within NYC orgnaized by Borough and the status of the complaint: Closed as the issue is resolved or Open as the issue is still not resolved. The table displays the distribution and the graph is the visualization of my table's result. From the table and graph, we can see that the Bronx and Brooklyn have the most amount of issue compared to Staten Island that has the least. Staten Island has less than 1/10 of building complaint and issues compared to any other Borough. This may be due to the fact that Staten Island has many newly built houses so there are very few complaint from homes. 
 
 |        | Borough | Status | num_status |
 |--------|---------|--------|------------|
@@ -39,7 +40,7 @@
 
 ![graph](Housing.png)
 
-  Below shows the different issues that occur within an apartment/housing complex. The table displays the number of occurrences that each issue has occurred and graphed the table's results.
+  Below shows the different issues that occur within an apartment/housing complex. The table displays the number of occurrences that each issue has occurred and graphed the table's results. From the table and graph, we can see that the most common issue seems to be hot water having a little more than double the number of  complaints compared to the second most common issue: unsanitary conditions. On the other hand, construction seems to be the least common/ almost non-existence issue.
 
 |        | MajorCategory   |   num  |
 |--------|------------------|------------|
